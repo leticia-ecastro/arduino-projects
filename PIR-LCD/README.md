@@ -1,0 +1,2 @@
+O objetivo desse projeto é simular um detector de presença, de modo que quando o sensor PIR detectar presença, será exibida no monitor LCD a frase "PRESENCA DETECTADA". 
+Enquanto não houver detecção de movimento ou presença, será exibida a frase "SEM ALTERACOES" no display LCD.

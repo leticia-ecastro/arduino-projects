@@ -1,0 +1,1 @@
+O objetivo desse projeto é simular uma sirene, de modo que o som do buzzer seja emitido ao mesmo tempo que os LEDs azul e vermelho acendem e apagam.
